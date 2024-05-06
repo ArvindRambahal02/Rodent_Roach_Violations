@@ -129,6 +129,13 @@ for key in keys_list:
 # Ratio - Rodent to roach citation
 rodent_roach_ratio = (rat_violation_count + mice_violation_count) // roach_violation_count
 
+borough_citation_dictionary = {"Manhattan": 0, "Bronx": 0, "Brooklyn": 0, "Queens": 0, "Staten Island": 0}
+
 # Question 3
+# Analyze the frequent violators
+for key in keys_list:
+    for citation in camis_dictionary[key]:
+        if(citation.hasRats() or citation.hasMice() or citation.hasRoaches()):
+            borough_citation_dictionary[citation.boro] += 1
 
 # Extra Credit

@@ -13,3 +13,6 @@ Analyzing the rodent and roach violations for Thai cuisines in NYC
 * Implemented data cleaning techniques (missing values).
 * Explored the use of Geopandas to generate a map of NYC using a shapefile.
 * Technical Skills: Python (Pandas), Data Cleaning & Manipulation (Custom Citation Class), Data Analysis & Exploration.
+
+## Visualizations:
+![Alt Text](image_url)

@@ -17,4 +17,4 @@ Analyzing the rodent and roach violations for Thai cuisines in NYC
 ## Visualizations:
 ![Rat Violations By Borough Pie Chart](https://github.com/ArvindRambahal02/Rodent_Roach_Violations/blob/main/rat_vio_by_boro.png)
 
-![Map of NYC]()
+![Map of NYC](https://github.com/ArvindRambahal02/Rodent_Roach_Violations/blob/main/nyc_map_geo_pandas.png)

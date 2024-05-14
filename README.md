@@ -15,4 +15,4 @@ Analyzing the rodent and roach violations for Thai cuisines in NYC
 * Technical Skills: Python (Pandas), Data Cleaning & Manipulation (Custom Citation Class), Data Analysis & Exploration.
 
 ## Visualizations:
-![Rat Violations By Borough Pie Chart]((https://github.com/ArvindRambahal02/Rodent_Roach_Violations/blob/main/rat_vio_by_boro.png))
+![Rat Violations By Borough Pie Chart](https://github.com/ArvindRambahal02/Rodent_Roach_Violations/blob/main/rat_vio_by_boro.png)
